@@ -7,7 +7,7 @@ import Image from 'next/image'
 export default function Page() {
   return (
     <>
-  <h1 className={styles.sitetitle}>ともすた</h1>
+  <h1 className={styles.sitetitle}>チャンアインクアンのページ</h1>
   <Image src="/images/next.svg"
    width={150}
    height={30}
